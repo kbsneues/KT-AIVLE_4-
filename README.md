@@ -1,2 +1,2 @@
-# KT-AIVLE_4-
+# KT-AIVLE_SCHOOL
 KT AIVLE SCHOOL 4차 미니프로젝트 
